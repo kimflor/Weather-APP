@@ -1,0 +1,77 @@
+body {
+  font-family: "Imperial Script", cursive;
+  font-family: "Roboto", sans-serif;
+  background: radial-gradient(
+    328px at 2.9% 15%,
+    rgb(191, 224, 251) 0%,
+    rgb(232, 233, 251) 25.8%,
+    rgb(252, 239, 250) 50.8%,
+    rgb(234, 251, 251) 77.6%,
+    rgb(240, 251, 244) 100.7%
+  );
+}
+h5 {
+  position: relative;
+  left: 40px;
+}
+.units {
+  position: relative;
+  left: 50px;
+}
+.weather-app {
+  max-width: 800px;
+  margin: 15px auto;
+  padding: 15px;
+}
+.today {
+  font-size: 60px;
+  position: relative;
+  left: 50px;
+}
+.today-temperature {
+  position: relative;
+  font-size: 35px;
+  left: 50px;
+}
+.search-bar {
+  display: inline;
+  margin: 20px auto;
+  width: 65%;
+  color: #e6739f;
+}
+.sunny {
+  font-size: 60px;
+  text-align: center;
+}
+.cloudy-sunny {
+  font-size: 60px;
+  text-align: center;
+}
+.lightning {
+  font-size: 60px;
+  text-align: center;
+}
+.rain {
+  font-size: 60px;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  position: relative;
+  left: 10px;
+  padding-top: 10px;
+}
+li {
+  display: inline;
+}
+header {
+  position: relative;
+  left: 35px;
+  padding-top: 30px;
+}
+.card-text {
+  text-align: center;
+}
+.card {
+  padding-bottom: 10px;
+}
