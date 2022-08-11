@@ -18,6 +18,10 @@ h5 {
   position: relative;
   left: 50px;
 }
+.github-link {
+  position: relative;
+  left: 575px;
+}
 .weather-app {
   max-width: 800px;
   margin: 15px auto;
